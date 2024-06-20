@@ -1,4 +1,4 @@
-# PERIDOT-COIN || GEM STONE COIN [BLOCKCHAIN]
+# Gem Stone Coins
 
 <!-- ![GEM_STONE](img/peridot_img_1.png)
 -->
