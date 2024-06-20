@@ -1,4 +1,4 @@
-# gem stone coins
+# Gem Stone Coins
 
 <!-- ![GEM_STONE](img/peridot_img_1.png)
 -->
